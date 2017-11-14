@@ -25,6 +25,8 @@ stored locally?
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
+I could use a file hosting service like Dropbox, Google Drive, Sand Space. It would be easier to share files, but collaboration would be harder, and control of others actions.
+
     Fill in your answer here
 
 When would you want to make changes in a separate branch rather than directly in
